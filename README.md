@@ -21,14 +21,14 @@ My work blends **academic rigor**, **enterprise engineering**, and **product vis
 
 ## 🚀 Featured Projects
 
+### 🪄 [WonderLab XR](https://www.wonderlabxr.com)
+A creative AI studio exploring **immersive XR experiences** powered by generative AI.
+
 ### 🌸 [Bloom XR](https://apps.apple.com/us/app/bloom-xr/id6744581621)
 Augmented reality flower arrangement app merging **design, AI, and play**.
 
 ### 🧬 [GutRoot Chatbot](https://gut-root.vercel.app/chatbot)
 Medical Q&A chatbot for **gut health and microbiome education**, built with a **RAG pipeline** fine-tuned for medical accuracy.
-
-### 🪄 [WonderLab XR](https://www.wonderlabxr.com)
-A creative AI studio exploring **immersive XR experiences** powered by generative AI.
 
 ### 🛍️ [Vinsy](https://apps.apple.com/us/app/vinsy/id6745562161)
 Location-based **vintage shopping app** combining maps, events, and curation.
