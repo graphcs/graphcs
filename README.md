@@ -1,6 +1,6 @@
 # 👋 Hi, I’m John M, PhD (Yale) | CS Cambridge
 
-I'm a **senior AI software engineer, researcher, and founder** specializing in **LLM orchestration, agentic systems, and software engineering**.
+I'm a **senior AI software engineer (SWE), researcher, and founder** specializing in **LLM orchestration, agentic systems, and creative technology**.
 
 ---
 
