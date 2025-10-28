@@ -1,4 +1,4 @@
-# 👋 Hi, I’m John Maheswaran, PhD (Yale) | CS Cambridge
+# 👋 Hi, I’m John M, PhD (Yale) | CS Cambridge
 
 I'm a **senior AI software engineer, researcher, and founder** specializing in **LLM orchestration, agentic systems, and software engineering**.
 
