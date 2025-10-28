@@ -2,6 +2,8 @@
 
 I'm a **senior AI software engineer (SWE), researcher, and founder** specializing in **LLM orchestration, agentic systems, and creative technology**.
 
+💼 *Available for select AI, backend, and creative tech projects — [Hire me on Upwork](https://www.upwork.com/freelancers/~01a09658c320bd9c65?viewMode=1).*
+
 ---
 
 ## 🧠 About Me
@@ -49,3 +51,8 @@ Location-based **vintage shopping app** combining maps, events, and curation.
 - Multi-Agent Systems (MAS) for financial and scientific reasoning  
 - Privacy-preserving fintech systems (see *PrivacyPay White Paper*)  
 - AI agents for medical, legal, and compliance application
+
+---
+
+⭐️ *If you’re building something ambitious — AI, XR, or privacy tech — let’s talk.*
+💼 [**Hire me on Upwork**](https://www.upwork.com/freelancers/~01a09658c320bd9c65?viewMode=1)
