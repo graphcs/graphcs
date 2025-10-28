@@ -2,7 +2,7 @@
 
 I'm a **senior AI software engineer (SWE), researcher, and founder** specializing in **Gen AI, LLM orchestration, agentic systems, and creative technology**.
 
-💼 *Available for select AI, backend, and creative tech projects: 
+💼 *Available for select AI, backend, and creative tech projects:* 
 
 ⭐ **Top Rated | 100% Job Success | 5★ Client Reviews** - *[Hire me on Upwork](https://www.upwork.com/freelancers/~01a09658c320bd9c65?viewMode=1).*
 
