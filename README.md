@@ -4,7 +4,7 @@ I'm a **senior AI software engineer (SWE), researcher, and founder** specializin
 
 💼 *Available for select AI, backend, and creative tech projects:* 
 
-⭐ **Top Rated | 100% Job Success | 5★ Client Reviews** - *[Hire me on Upwork](https://www.upwork.com/freelancers/~01a09658c320bd9c65?viewMode=1).*
+⭐ **Top Rated | 100% Job Success | 5★ Client Reviews** 
 
 ---
 
@@ -57,4 +57,3 @@ Location-based **vintage shopping app** combining maps, events, and curation.
 ---
 
 ⭐️ *If you’re building something ambitious — AI, XR, or privacy tech — let’s talk.*
-💼 [**Hire me on Upwork**](https://www.upwork.com/freelancers/~01a09658c320bd9c65?viewMode=1)
