@@ -2,9 +2,9 @@
 
 I'm a **senior AI software engineer (SWE), researcher, and founder** specializing in **Gen AI, LLM orchestration, agentic systems, and creative technology**.
 
-💼 *Available for select AI, backend, and creative tech projects:* 
+💼 *Working on AI, backend, and creative tech projects:* 
 
-⭐ **Top Rated | 100% Job Success | 5★ Client Reviews** 
+⭐ **Coding every day** 
 
 ---
 
@@ -12,7 +12,7 @@ I'm a **senior AI software engineer (SWE), researcher, and founder** specializin
 
 🎓 **PhD, Yale University** – Distributed Systems & AI  
 🎓 **BA, University of Cambridge** – Computer Science  
-🏢 **Founder** (NYC)  
+🏢 **Programmer**
 💡 I design and deploy **multi-agent AI systems**, **retrieval-augmented generation (RAG)** pipelines, and **scalable FastAPI/PostgreSQL backends** in fintech, healthcare, and creative tech.
 
 My work blends **academic rigor**, **enterprise engineering**, and **product vision** — from research notebooks to production-grade systems.
@@ -22,7 +22,7 @@ My work blends **academic rigor**, **enterprise engineering**, and **product vis
 ## 🚀 Featured Projects
 
 ### 🪄 [WonderLab XR](https://www.wonderlabxr.com)
-A creative AI studio exploring **immersive XR experiences** powered by generative AI.
+Creative AI studio exploring **immersive XR experiences** powered by generative AI.
 
 ### 🌸 [Bloom XR](https://apps.apple.com/us/app/bloom-xr/id6744581621)
 Augmented reality flower arrangement app merging **design, AI, and play**.
@@ -53,7 +53,3 @@ Location-based **vintage shopping app** combining maps, events, and curation.
 - Multi-Agent Systems (MAS) for financial and scientific reasoning  
 - Privacy-preserving fintech systems (see *PrivacyPay White Paper*)  
 - AI agents for medical, legal, and compliance application
-
----
-
-⭐️ *If you’re building something ambitious — AI, XR, or privacy tech — let’s talk.*
