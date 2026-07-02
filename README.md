@@ -4,7 +4,7 @@ I'm a **senior AI software engineer (SWE), researcher, and founder** specializin
 
 💼 *Working on AI, backend, and creative tech projects:* 
 
-⭐ **Coding every day** 
+⭐ **Coding every day** ⭐
 
 ---
 
