@@ -1,6 +1,6 @@
 # 👋 Hi, I’m John Maheswaran, PhD (Yale) | CS Cambridge
 
-I'm a **senior AI software engineer (SWE), researcher, and founder** specializing in **Gen AI, LLM orchestration, agentic systems, and creative technology**.
+I'm a **senior AI software engineer (SWE), researcher, and founder** specializing in **AI, agentic coding, agentic engineering, agentic systems, and creative technology**.
 
 💼 *Working on AI, backend, and creative tech projects:* 
 
